@@ -1,4 +1,4 @@
-## I`m beginner Frontend developer.
+## Welcome to my page! I`m beginner Frontend developer.
 
 ### Languages:
 ![JavaScript](https://img.shields.io/badge/-JavaScript-090909?style=for-the-badge&logo=JavaScript&logoColor=E9D54D)
